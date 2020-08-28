@@ -1,0 +1,13 @@
+{
+  "spectated": "the player was spectated and no suspicious activity was found, if you have proof please report on forums",
+  "staffmember": "if you have proof about this staff member abusing, please send email community@mineland.net with all the proofs you got",
+  "notonline": "the player you suspect has logged off and we can no longer spectate them, if you have proof please report on forums",
+  "appeal": "please post a ban appeal via forums, we only unban in case of mistake",
+  "idk": "we are not sure what you wish to report. Please provide more information about the issue, thanks in advance",
+  "onlyimportant": "please only use /report for important matters, else, you'll be punished",
+  "contactus": "please contact us using VK or Discord",
+  "workedon": "the issue is currently being worked on by the team, thanks for reporting",
+  "provideign": "please provide us the IGN of the player you wish to report",
+  "reason": "please tell us the reason for reporting this player",
+  "punished": "the player has been punished, thank you for reporting"
+}
