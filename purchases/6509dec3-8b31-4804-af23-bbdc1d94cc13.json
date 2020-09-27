@@ -1,0 +1,474 @@
+{
+  "uuid": "6509dec38b314804af23-bbdc1d94cc13",
+  "hyperium": [
+    "PARTICLE_BACKGROUND",
+    "DAB_ON_KILL",
+    "KILL_TRACKER_MUSCLE",
+    "WING_COSMETIC",
+    "FLIP_COSMETIC",
+    "DEADMAU5_COSMETIC",
+    "SK1ER_CAPE",
+    "HYPERIUM_CAPE",
+    "QUIG_CAPE",
+    "TIMEDEO_CAPE",
+    "BOEH_CAPE",
+    "IT5MESAM_CAPE",
+    "ITZMAXK_CAPE",
+    "SKEPPY_CAPE",
+    "MARKEYBUILDER_CAPE",
+    "FLIPFLOP_CAPE",
+    "SHOTGUNRAIDS_CAPE",
+    "JUSTVURB_CAPE",
+    "DRAGON_HEAD",
+    "LEGO_CAPE",
+    "CUSTOM_CAPE_ANIMATED",
+    "CUSTOM_CAPE_IMAGE",
+    "ANIMATION_STATIC_TRAIL",
+    "ANIMATION_DOUBLE_TWIRL",
+    "ANIMATION_DOUBLE_HELIX",
+    "PARTICLE_LAVA_DRIP",
+    "PARTICLE_CRIT",
+    "PARTICLE_NOTE",
+    "BPS_CAPE"
+  ],
+  "packages_new": [
+    {
+      "time": 1522430959,
+      "purchases": [
+        2924901
+      ]
+    },
+    {
+      "time": 1521475244,
+      "purchases": [
+        2924901
+      ]
+    },
+    {
+      "time": 1521472906,
+      "purchases": [
+        2924797
+      ]
+    },
+    {
+      "time": 1521467833,
+      "purchases": [
+        2924797
+      ]
+    },
+    {
+      "time": 1521467760,
+      "purchases": [
+        2924797
+      ]
+    },
+    {
+      "time": 1519671729,
+      "purchases": [
+        2709838
+      ]
+    },
+    {
+      "time": 1519671423,
+      "purchases": [
+        2888258
+      ]
+    },
+    {
+      "time": 1524798821,
+      "purchases": [
+        2924900
+      ]
+    },
+    {
+      "time": 1525287330,
+      "purchases": [
+        2972882,
+        2972883
+      ]
+    },
+    {
+      "time": 1526840084,
+      "purchases": [
+        3003747
+      ]
+    },
+    {
+      "time": 1527560603,
+      "purchases": [
+        3003747
+      ]
+    },
+    {
+      "time": 1527561454,
+      "purchases": [
+        2972883,
+        2972883,
+        2972883,
+        2972883,
+        2972883
+      ]
+    },
+    {
+      "time": 1529544955,
+      "purchases": [
+        3038568
+      ]
+    },
+    {
+      "time": 1529723014,
+      "purchases": [
+        3039544
+      ]
+    },
+    {
+      "time": 1529723102,
+      "purchases": [
+        3039544
+      ]
+    },
+    {
+      "time": 1529723209,
+      "purchases": [
+        2972880
+      ]
+    },
+    {
+      "time": 1529723253,
+      "purchases": [
+        2972880
+      ]
+    },
+    {
+      "time": 1534517526,
+      "purchases": [
+        3053077
+      ]
+    },
+    {
+      "time": 1536786104921,
+      "price_adj": true,
+      "purchases": [
+        -2
+      ]
+    },
+    {
+      "time": 1536786105138,
+      "price_adj": true,
+      "purchases": [
+        -3
+      ]
+    },
+    {
+      "time": 1544240213,
+      "purchases": [
+        3210788
+      ]
+    },
+    {
+      "time": 1544243090,
+      "purchases": [
+        3210784,
+        3210786
+      ]
+    },
+    {
+      "time": 1545175971,
+      "purchases": [
+        3227693
+      ]
+    },
+    {
+      "time": 1546574114,
+      "purchases": [
+        3210784
+      ]
+    },
+    {
+      "time": 1548418590,
+      "purchases": [
+        3249973
+      ]
+    },
+    {
+      "time": 1548886843,
+      "purchases": [
+        3281793
+      ]
+    },
+    {
+      "time": 0,
+      "purchases": [
+        3210784
+      ]
+    },
+    {
+      "time": 0,
+      "purchases": [
+        3210784
+      ]
+    },
+    {
+      "time": 1550950374,
+      "purchases": [
+        3210784
+      ]
+    },
+    {
+      "time": 1550956217,
+      "purchases": [
+        3210788
+      ]
+    },
+    {
+      "time": 1550956465,
+      "purchases": [
+        2972883
+      ]
+    },
+    {
+      "time": 1554760957,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1555686736,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1555702210,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1555702675,
+      "purchases": [
+        3361275,
+        3361275,
+        3361275,
+        3361275,
+        3361275,
+        3361275,
+        3361275,
+        3361275,
+        3361275
+      ]
+    },
+    {
+      "time": 1555900977,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1556414596,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1559622067,
+      "purchases": [
+        3423439
+      ]
+    },
+    {
+      "time": 1561299274,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1562016611,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1562864334,
+      "purchases": [
+        2972880
+      ]
+    },
+    {
+      "time": 1565992684,
+      "purchases": [
+        3042369,
+        2972883,
+        2972882
+      ]
+    },
+    {
+      "time": 1566679296,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1574708103,
+      "purchases": [
+        3630133
+      ]
+    },
+    {
+      "time": 1574708618,
+      "purchases": [
+        3630133
+      ]
+    },
+    {
+      "time": 1574715015,
+      "purchases": [
+        3210784
+      ]
+    },
+    {
+      "time": 1574732165,
+      "purchases": [
+        3630457
+      ]
+    },
+    {
+      "time": 1574736873,
+      "purchases": [
+        3630458
+      ]
+    },
+    {
+      "time": 1574737070,
+      "purchases": [
+        3630458
+      ]
+    },
+    {
+      "time": 1578503277,
+      "purchases": [
+        3630457
+      ]
+    },
+    {
+      "time": 1578503480,
+      "purchases": [
+        3630457
+      ]
+    },
+    {
+      "time": 1580851037,
+      "purchases": [
+        3709292
+      ]
+    },
+    {
+      "time": 1581049374,
+      "purchases": [
+        3690372
+      ]
+    },
+    {
+      "time": 1581123554,
+      "purchases": [
+        3690363
+      ]
+    },
+    {
+      "time": 1581623340,
+      "purchases": [
+        3210788
+      ]
+    },
+    {
+      "time": 1581623340,
+      "purchases": [
+        3210786
+      ]
+    },
+    {
+      "time": 1581623449,
+      "purchases": [
+        3210788
+      ]
+    },
+    {
+      "time": 1582836222,
+      "purchases": [
+        3715337
+      ]
+    },
+    {
+      "time": 1584205110,
+      "purchases": [
+        3690383
+      ]
+    },
+    {
+      "time": 1585196701,
+      "purchases": [
+        3361275
+      ]
+    },
+    {
+      "time": 1585868977,
+      "purchases": [
+        3798979
+      ]
+    },
+    {
+      "time": 1586910815,
+      "purchases": [
+        3210784
+      ]
+    },
+    {
+      "time": 1586989492,
+      "purchases": [
+        3053077
+      ]
+    }
+  ],
+  "everything": 1602541494971,
+  "extra_credits": [
+    -1000,
+    -1,
+    150,
+    300,
+    500,
+    300,
+    -300
+  ],
+  "levelhead_credits": [
+    3,
+    1,
+    5,
+    1,
+    3,
+    1,
+    1,
+    1,
+    3,
+    1,
+    3,
+    5,
+    3,
+    1
+  ],
+  "levelhead_purchases": [
+    "chat",
+    "tab",
+    "head",
+    "head",
+    "mc_ver",
+    "total_votes",
+    "mediahead",
+    "reward_high_score"
+  ],
+  "frames_plus_cape": true,
+  "request": "1a5c41c8a9524ddfa19c66f6bb3707a1",
+  "total_credits": 57689,
+  "remaining_credits": 43539,
+  "success": true,
+  "remaining_levelhead_credits": 20
+}
